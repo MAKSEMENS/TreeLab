@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TreeLab",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TreeLab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TreeLab-Debug-dd57319cf21dee9c12c9.json",
+					"name" : "TreeLab",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/\u041b\u042d\u0422\u0418/\u0410\u0438\u0421\u0414/3 \u043b\u0430\u0431\u0430/TreeLab/cmake-build-debug",
+		"source" : "D:/\u041b\u042d\u0422\u0418/\u0410\u0438\u0421\u0414/3 \u043b\u0430\u0431\u0430/TreeLab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

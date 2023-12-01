@@ -1,0 +1,3 @@
+D:/ЛЭТИ/АиСД/3 лаба/TreeLab/cmake-build-debug/CMakeFiles/TreeLab.dir
+D:/ЛЭТИ/АиСД/3 лаба/TreeLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ЛЭТИ/АиСД/3 лаба/TreeLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
